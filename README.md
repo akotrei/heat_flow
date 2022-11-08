@@ -1,6 +1,5 @@
 ## GETTING STARTED
-
-    1. dependenciess:
+    1. dependencies:
         1.1 unix-like OS
         1.2 python3.8 or higher
     
@@ -11,13 +10,11 @@
         1.4 pip install -r requirements.txt
 
 ## TASK
-
     1. The task description is provided in task.md
     2. The solution description is provided in solution.md
     3. interface for input is in input.py
 
 ## RUN
-
     1. after setting input data in input.py run 'python3 main.py'
     2. see result in 'plot.png' and 'out.txt'
 
